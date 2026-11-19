@@ -1,16 +1,14 @@
 # Dataset
 notebook/creditcard.csv
 
-# Python virtual environment
+# Python environment
 venv/
 .venv/
-
-# Python cache
 __pycache__/
 *.pyc
 
-# Jupyter checkpoints
+# Jupyter
 .ipynb_checkpoints/
 
-# OS files
+# Mac
 .DS_Store
