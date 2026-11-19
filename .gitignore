@@ -1,2 +1,16 @@
-# Google App Engine generated folder
-appengine-generated/
+# Dataset
+notebook/creditcard.csv
+
+# Python virtual environment
+venv/
+.venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# OS files
+.DS_Store
